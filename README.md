@@ -7,8 +7,7 @@ This project analyzes retail sales data using Microsoft Excel.   The dashboard p
 - Slicers
 - Data Cleaning
 - Dashboard Design
-
-Key Insights
+## Key Insights
 Women customers contribute the highest share of purchases, accounting for nearly 65% of total sales.
 Maharashtra, Karnataka, and Uttar Pradesh are the top three contributing states, generating around 35% of overall sales.
 The adult age group (30–49 years) contributes the maximum share of sales, approximately 50%.
